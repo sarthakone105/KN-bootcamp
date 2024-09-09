@@ -1,0 +1,8 @@
+2024-09-09 21:20:59 - ArthmethicApp - DEBUG - Adding started : 10 + 5, result: 15 
+2024-09-09 21:20:59 - ArthmethicApp - DEBUG - Minus started : 10 - 5, result: 5 
+2024-09-09 21:20:59 - ArthmethicApp - DEBUG - Multiplication started : 10 * 5 
+2024-09-09 21:20:59 - ArthmethicApp - DEBUG - Division started : 10 / 5 : result: 2.0 
+2024-09-09 21:22:19 - ArthmethicApp - DEBUG - Adding started : 10 + 5, result: 15 
+2024-09-09 21:22:19 - ArthmethicApp - DEBUG - Minus started : 10 - 5, result: 5 
+2024-09-09 21:22:19 - ArthmethicApp - DEBUG - Multiplication started : 10 * 5, result: 50 
+2024-09-09 21:22:19 - ArthmethicApp - ERROR - Division by Zero Error 
